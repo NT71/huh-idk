@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "greenhacker idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				23
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "greenhacker left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "greenhacker down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "greenhacker up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "greenhacker right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/greenhacker",
+	"position": [
+		-80,
+		200
+	],
+	"healthicon": "greenH",
+	"flip_x": false,
+	"healthbar_colors": [
+		7,
+		133,
+		80
+	],
+	"camera_position": [
+		-150,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

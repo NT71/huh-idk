@@ -3,122 +3,34 @@
 		{
 			"loop": false,
 			"offsets": [
+				-3,
+				-1
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "BF dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
 				-5,
 				0
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "BF idle dance",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				5,
-				-6
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "BF NOTE LEFT0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-10,
-				-50
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "BF NOTE DOWN0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-29,
-				27
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "BF NOTE UP0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-48,
-				-7
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "BF NOTE RIGHT0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				7,
-				19
-			],
-			"anim": "singLEFTmiss",
-			"fps": 24,
-			"name": "BF NOTE LEFT MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-15,
-				-19
-			],
-			"anim": "singDOWNmiss",
-			"fps": 24,
-			"name": "BF NOTE DOWN MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-36,
-				27
-			],
-			"anim": "singUPmiss",
-			"fps": 24,
-			"name": "BF NOTE UP MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-44,
-				22
-			],
-			"anim": "singRIGHTmiss",
-			"fps": 24,
-			"name": "BF NOTE RIGHT MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-3,
-				5
-			],
-			"anim": "hey",
-			"fps": 24,
-			"name": "BF HEY",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				15,
-				18
-			],
-			"anim": "hurt",
-			"fps": 24,
-			"name": "BF hit",
+			"name": "BF idle",
 			"indices": []
 		},
 		{
@@ -129,92 +41,125 @@
 			],
 			"anim": "scared",
 			"fps": 24,
-			"name": "BF idle shaking",
+			"name": "BF shaking",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				37,
-				11
+				-3,
+				0
 			],
-			"anim": "firstDeath",
+			"anim": "singLEFT",
 			"fps": 24,
-			"name": "BF dies",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [
-				37,
-				5
-			],
-			"anim": "deathLoop",
-			"fps": 24,
-			"name": "BF Dead Loop",
+			"name": "BF left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				37,
-				69
+				-7,
+				0
 			],
-			"anim": "deathConfirm",
+			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "BF Dead confirm",
+			"name": "BF right",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-10,
-				-16
+				-7,
+				3
 			],
-			"anim": "dodge",
+			"anim": "singUP",
 			"fps": 24,
-			"name": "boyfriend dodge",
+			"name": "BF up",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				294,
-				267
+				-9,
+				1
 			],
-			"anim": "attack",
+			"anim": "singDOWN",
 			"fps": 24,
-			"name": "boyfriend attack",
+			"name": "BF down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-40,
-				-40
+				-6,
+				2
 			],
-			"anim": "pre-attack",
-			"fps": 24,
-			"name": "bf pre attack",
+			"anim": "singDOWNmiss",
+			"fps": 10,
+			"name": "BF dowmiss",
 			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				3
+			],
+			"anim": "singUPmiss",
+			"fps": 10,
+			"name": "BF umiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 10,
+			"name": "BF righmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				1
+			],
+			"anim": "singLEFTmiss",
+			"fps": 10,
+			"name": "BF lefmiss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodgeALT",
+			"indices": [],
+			"name": "BF dodg"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/BOYFRIEND",
 	"position": [
-		0,
-		350
+		-350,
+		220
 	],
 	"healthicon": "bf",
 	"flip_x": true,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		10,
+		255,
+		255
 	],
 	"camera_position": [
-		0,
-		0
+		160,
+		-31
 	],
 	"sing_duration": 4,
 	"scale": 1
